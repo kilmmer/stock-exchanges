@@ -25,3 +25,4 @@ Creation of a stock exchange project.
 
 • Python
 
+• Firebase
