@@ -1,5 +1,5 @@
 # stock-exchanges
-Creation of an project of stocks exchange
+Creation of a stock exchange project.
 
 
 # Technologies
