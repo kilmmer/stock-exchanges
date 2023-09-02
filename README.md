@@ -2,7 +2,7 @@
 Creation of a stock exchange project.
 
 
-# Technologies
+# Technologies being used:
 • Docker 
 
 • TypeScript
