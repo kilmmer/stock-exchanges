@@ -3,8 +3,6 @@ Creation of a stock exchange project.
 
 
 # Technologies being used:
-• Docker 
-
 • TypeScript
 
 • RabbitMQ
