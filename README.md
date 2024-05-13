@@ -21,6 +21,6 @@ Creation of a stock exchange project.
 
 • NodeJS
 
-• Python
+• Go
 
 • Firebase
