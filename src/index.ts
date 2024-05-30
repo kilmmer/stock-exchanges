@@ -1,3 +1,10 @@
-implrt { * as ExchangesModule } from './exchanges'
+import * as ExchangesModule from './exchanges'
 
-export class App {}
+
+
+export class App {
+
+    bootstrap() {
+        ExchangesModule.init();
+    }
+}
