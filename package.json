@@ -1,0 +1,19 @@
+{
+  "name": "stock-exchanges",
+  "version": "1.0.0",
+  "description": "Creation of a stock exchange project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kilmmer/stock-exchanges.git"
+  },
+  "author": "Kilmmer Kielblock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kilmmer/stock-exchanges/issues"
+  },
+  "homepage": "https://github.com/kilmmer/stock-exchanges#readme"
+}

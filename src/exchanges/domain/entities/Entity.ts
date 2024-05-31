@@ -1,9 +1,15 @@
 export abstract class Entity<T> {
-    protected readonly _id: string;
-    protected props: T;
+    protected id: number | string;
 
-    constructor(props: T, id?: string) {
-        this._id = id || Math.random().toString(36).substr(2, 9);
-        this.props = props;
+    constructor(id: number | string) {
+        this.id = id || Math.random().toString(36).substr(2, 9);
+    }
+
+    public getId(): number | string {
+        return this.id;
+    }
+
+    public setId(id: number | string): void {
+        this.id = id;
     }
 }
