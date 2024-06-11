@@ -8,7 +8,6 @@ export class Stock extends Entity<Stock> {
     createdAt?: Date;
     updatedAt?: Date;
 
-
     constructor(name: string, currentPrice: number, marketCap: number, symbol: string, id?: number) {
         super(id || 0);
 
